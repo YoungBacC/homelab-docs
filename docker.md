@@ -7,3 +7,6 @@ Since I know absolutely nothing about docker, in order to get docker up and runn
 
 The docker server is running at IP: 192.168.1.42.
 
+I set up a portrainer container in docker to handle all docker containers visually via a WebUI.
+
+I set up qbittorrent with gluetun using docker-compose so that all torrent traffic will go through my protonvpn before getting to my server.
